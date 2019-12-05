@@ -18,7 +18,6 @@ Name | Description
 BGA-121-11x11_9.0x9.0mm | BGA footprint for [iCE40HX8K-BG121](http://www.latticesemi.com/iCE40).
 FAN2306 | Custom footprint for [FAN2306](https://www.onsemi.com/products/power-management/dc-dc-controllers-converters-regulators/converters/fan2306).
 IHLP-3232DZ | Custom footprint for [IHLP-3232DZ](https://www.vishay.com/product?docid=34316) inductor.
-RJ45_Amphenol_RJHSE5380 | Modified version of standard `Connector_RJ/RJ45_Amphenol_RJHSE5380` without over-hanging silkscreen.
 
 Please consider supporting this project and others like it by donating:
 * XBT: 13zRrs1YDdooUN5WtfXRSDn8KnJdok4qG9
