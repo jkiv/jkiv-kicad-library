@@ -8,6 +8,7 @@ Mfgr | Device
 --- | ---
 Atmel / Microchip | [ATSAMD21E](https://www.microchip.com/wwwproducts/en/ATsamd21g15)
 Lattice | [iCE40HX8K-BG121](http://www.latticesemi.com/iCE40)
+Lattice | [LFE5U-85_381caBGA](http://www.latticesemi.com/en/Products/FPGAandCPLD/ECP5)
 On Semiconductor / Fairchild | [FAN2306](https://www.onsemi.com/products/power-management/dc-dc-controllers-converters-regulators/converters/fan2306)
 Renesas | [ISL83488](https://www.renesas.com/us/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422/device/ISL83488.html)
 
