@@ -1,4 +1,4 @@
-(module FAN2306 (layer F.Cu) (tedit 5DDB4801)
+(module FAN2306 (layer F.Cu) (tedit 5E236EE7)
   (solder_mask_margin 0.05)
   (fp_text reference REF** (at 0.2 -3.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
