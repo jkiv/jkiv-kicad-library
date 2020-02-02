@@ -5,7 +5,7 @@ This is a repository of custom symbols and footprints for various KiCad 5 projec
 ## Symbols
 
 Mfgr | Device | Verified?
---- | ---
+--- | --- | ---
 Atmel / Microchip | [ATSAMD21E](https://www.microchip.com/wwwproducts/en/ATsamd21g15) | No
 Lattice | [iCE40HX8K-BG121](http://www.latticesemi.com/iCE40) | No
 Lattice | [LFE5U-85_381caBGA](http://www.latticesemi.com/en/Products/FPGAandCPLD/ECP5) | No
@@ -17,7 +17,7 @@ Renesas | [ISL83488](https://www.renesas.com/us/en/products/interface/rs-485-rs-
 ## Footprints
 
 Name | Description | Verified?
---- | ---
+--- | --- | ---
 BGA-121-11x11_9.0x9.0mm | BGA footprint for [iCE40HX8K-BG121](http://www.latticesemi.com/iCE40). | No
 FAN2306 | Custom footprint for [FAN2306](https://www.onsemi.com/products/power-management/dc-dc-controllers-converters-regulators/converters/fan2306). | No
 IHLP-3232DZ | Custom footprint for [IHLP-3232DZ](https://www.vishay.com/product?docid=34316) inductor. | No
