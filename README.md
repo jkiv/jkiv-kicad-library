@@ -7,15 +7,15 @@ This is a repository of custom symbols and footprints for various KiCad 5 projec
 Mfgr | Device | Verified?
 --- | --- | ---
 Atmel / Microchip | [ATSAMD21E](https://www.microchip.com/wwwproducts/en/ATsamd21g15) | No
+Diodes | [AP7361C_SO-8EP](https://www.diodes.com/part/view/AP7361C) | No
+Diodes | [AP7361C_SOT-89-5](https://www.diodes.com/part/view/AP7361C) | No
+Diodes | [AP7361C_TO252_DPAK](https://www.diodes.com/part/view/AP7361C) | No
 Lattice | [iCE40HX8K-BG121](http://www.latticesemi.com/iCE40) | No
 Lattice | [LFE5U-85_381caBGA](http://www.latticesemi.com/en/Products/FPGAandCPLD/ECP5) | No
 NXP | [PCA9615DP](https://www.nxp.com/part/PCA9615DP) | No
 On Semiconductor / Fairchild | [FAN2306](https://www.onsemi.com/products/power-management/dc-dc-controllers-converters-regulators/converters/fan2306) | No
 Renesas | [ISL83485](https://www.renesas.com/us/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422/device/ISL83485.html) | No
 Renesas | [ISL83488](https://www.renesas.com/us/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422/device/ISL83488.html) | No
-Diodes | [AP7361C_SO-8EP](https://www.diodes.com/part/view/AP7361C)
-Diodes | [AP7361C_SOT-89-5](https://www.diodes.com/part/view/AP7361C)
-Diodes | [AP7361C_TO252_DPAK](https://www.diodes.com/part/view/AP7361C)
 
 ## Footprints
 
