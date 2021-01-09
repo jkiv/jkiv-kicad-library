@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AOZ2255LQI-30
+D 28V/12A Synchronous EZBuckTMRegulator
+K buck dc dc switching converter
+F http://www.aosmd.com/res/data_sheets/AOZ2255LQI-30.pdf
+$ENDCMP
+#
+#End Doc Library
