@@ -6,7 +6,8 @@ This is a repository of custom symbols and footprints for various KiCad 5 projec
 
 Mfgr | Device | Verified?
 --- | --- | ---
-Atmel / Microchip | [ATSAMD21E](https://www.microchip.com/wwwproducts/en/ATsamd21g15) | No
+Alpha-Omega | [AOZ2255LQI-30](http://www.aosmd.com/products/power-ics/ezbuck-dc-dc-buck-regulators/AOZ2255LQI-30) | No
+Atmel / Microchip | [ATSAMD21E](https://www.microchip.com/wwwproducts/en/ATsamd21g15) | Partially 
 Diodes | [AP7361C_SO-8EP](https://www.diodes.com/part/view/AP7361C) | No
 Diodes | [AP7361C_SOT-89-5](https://www.diodes.com/part/view/AP7361C) | No
 Diodes | [AP7361C_TO252_DPAK](https://www.diodes.com/part/view/AP7361C) | No
@@ -20,6 +21,7 @@ Renesas | [ISL83488](https://www.renesas.com/us/en/products/interface/rs-485-rs-
 
 Name | Description | Verified?
 --- | --- | ---
+QFN-22L-EP2_4x4mm_P0.5mm | Modified 24-QFN (4mmx4mm) for the [AOZ2255LQI-30](http://www.aosmd.com/products/power-ics/ezbuck-dc-dc-buck-regulators/AOZ2255LQI-30) | No
 BGA-121-11x11_9.0x9.0mm | BGA footprint for [iCE40HX8K-BG121](http://www.latticesemi.com/iCE40). | No
 FAN2306 | Custom footprint for [FAN2306](https://www.onsemi.com/products/power-management/dc-dc-controllers-converters-regulators/converters/fan2306). | No
 IHLP-3232DZ | Custom footprint for [IHLP-3232DZ](https://www.vishay.com/product?docid=34316) inductor. | No
