@@ -16,6 +16,7 @@ Lattice | [LFE5U-85_381caBGA](http://www.latticesemi.com/en/Products/FPGAandCPLD
 On Semiconductor / Fairchild | [FAN2306](https://www.onsemi.com/products/power-management/dc-dc-controllers-converters-regulators/converters/fan2306) | No
 Renesas | [ISL83485](https://www.renesas.com/us/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422/device/ISL83485.html) | No
 Renesas | [ISL83488](https://www.renesas.com/us/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422/device/ISL83488.html) | No
+TI | [TPS23731](https://www.ti.com/product/TPS23731) | No
 
 ## Footprints
 
