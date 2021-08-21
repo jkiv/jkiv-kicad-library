@@ -6,6 +6,7 @@ This is a repository of custom symbols and footprints for various KiCad 5 projec
 
 Mfgr | Device | Verified?
 --- | --- | ---
+Abracon | [ARJM11](https://abracon.com/Magnetics/ARJM11.pdf) | No
 Alpha-Omega | [AOZ2255LQI-30](http://www.aosmd.com/products/power-ics/ezbuck-dc-dc-buck-regulators/AOZ2255LQI-30) | No
 Atmel / Microchip | [ATSAMD21E](https://www.microchip.com/wwwproducts/en/ATsamd21g15) | Partially 
 Diodes | [AP7361C_SO-8EP](https://www.diodes.com/part/view/AP7361C) | No
