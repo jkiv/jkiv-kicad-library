@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP Abracon_ARJ-139
-D RJ connector, 10/100/1000BASE-T PoE+, 10P10C (10 positions 10 connected), three LEDs, RJ45, Shielded, 
+D RJ connector, 10/100/1000BASE-T PoE+, 10P10C (10 positions 10 connected), three LEDs, RJ45, Shielded,
 K 10P10C RJ45 female connector led poe poe+
 F https://abracon.com/Magnetics/lan/ARJ-139.pdf
 $ENDCMP
