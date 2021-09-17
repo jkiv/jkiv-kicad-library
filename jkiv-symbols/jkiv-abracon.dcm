@@ -6,4 +6,10 @@ K 10P10C RJ45 female connector led poe poe+
 F https://abracon.com/Magnetics/lan/ARJ-139.pdf
 $ENDCMP
 #
+$CMP Abracon_ARJM11-502
+D RJ connector, 10P10C (10 positions 10 connected), two LEDs, RJ45, Shielded
+K 10P10C RJ RJ45 female connector led
+F https://abracon.com/Magnetics/ARJM11.pdf
+$ENDCMP
+#
 #End Doc Library
